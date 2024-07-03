@@ -1,0 +1,33 @@
+Quiz Module 2 (OLS)
+1)"The relationship between Fahrenheit (F) and Celsius © degrees is given by relationshipC = (F - 32) * 5/9. If we had exact data of the temperatures in any given city measuredboth in F and C degrees, a regression of Celsius of Fahrenheit degrees would yield"
+a.An R-squared of 0 b.An R-squared of 1 c.We wouldn't be able to run the regression (Econometrics software would notrun) d.An estimated slope coefficient of 0
+2)"In the model Y=b0+b1*X+u, when b1 is positive implies that higher levels of X areassociated with higher levels of Y
+a.True b.False
+3)In a given regression model, the TOTAL SUM OF SQUARES (SST) is 800, and the SUM OFSQUARED OF ERRORS (SSErrors) is 200. Then the R-squared of this model is
+a.0.25 b.0.66 c.0.75 d.1.25
+4)You estimate the model Y = -12.28 + 2.79 * X where Y is wage per hour in US dollars andX is years of schooling (e.g. XX = 10 means 10 years of schooling). The coefficient inschooling says that
+a.Each extra year of schooling is associated with an increase in wage per hour by$2.79 dollars b.Each extra year of schooling is associated with an increase in wage per hour by279 dollars c.Each extra year of schooling is associated with an increase in wage per hour by$2.79 dollars d.Each extra year of schooling is associated with an increase in wage per hour by$27.9 %
+5)A statistical test yields a p-value of .0001, then at the 5% level of significance youCANNOT reject the null hypothesis
+a.True b.False
+6)Consider the model Y = b0 + b1 * X + u. One can to rewrite the OLS estimator for b1 isgiven by
+a.Cov(X,Y) / Var(X) b.Ybar/Xbar, where Ybar = average of the Y's and Xbar = average of the X's c.Var(Y) / Var(X) d.[Var(X)*Var(Y)]^0.5
+7)In the regression model lnY = b0 + b1 * lnX + u
+a.The intercept b.A covariance c.A regressor d.An elasticity
+8)The model given by Y = b0 + b1 * 91/X) + u is linear in parameters
+a.True b.False
+9)If the R-squared is 0, we would typically say that the explanatory variable doesn't explainthe variation in the dependent variable
+a.True b.False
+10)Under certain assumptions, the OLS estimators are BLUE. What does the U stand for inBLUE?
+a.Unique b.Unbiasedness c.Uber d.Ultimate
+11)You estimate the model Y =b0 + b1 *X1 + b2 * X2 + u, where u is the error term and theassumptions for the OLS estimator are satisfied (e.g. u is distributed i.i.d. normal withmean zero and constant variance). The parameter restriction b1 + b2 = 2 can be testedwith a
+a.T test b.F test c.R squared d.Durbin-Watson
+12)If aparameter is estimated to be 3.15, and the standard deviation of this estimatedparameter is 1.05, then the t-stateistc for this estimated parameter is
+a.0.33 b.1 c.2.1 d.3
+13)Consult a table with the t-distributor. You estimate a regression model Y= b0+b1*X+u byusing 40,000 observations. For the null hypothesis that b1=) (and the alternativehypothesis that b1 is different from 0), the ctricial value of the t-statistic at the 5%significance level is
+a.6.314 b.4.303 c.3.078 d.1.96
+14)You estimate the model Y = -12.28 + 2.79*X, where Y is wage per hour in th US dollarsand X is years of schooling. According to this regression, a person with 18 years ofschooling has PREDICTED wage per hour of
+a.24.16 b.37.94 c.48.26 d.50.22
+15)Of the 7 assumptions studied on linear regression, which of that is not required for theGauss-Markov Theorem to hold?
+a.Linearity of Parameters b.Normality of Error c.Zero Conditional Mean d.No Perfect Collinearity
+16) What is the color of the sky
+a.red b.green c.purple d.blue
